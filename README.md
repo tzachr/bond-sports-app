@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Bond Sports home assignment app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Install the project dependencies:
 
-### `npm install` 
+### `npm install`
 
 ## Available Scripts
 
@@ -47,17 +47,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Project structure
 
-* `src/`: This directory contains the source code for your React application.
-    * `components/`: React components go here.
-    * `App.tsx`: The main application component.
-    * `index.tsx`: Entry point for the application.
-* `public/`: Static assets and HTML template.
-    * `assets/`: Static assets.
-* `package.json`: Configuration file for npm packages and scripts.
-* `tsconfig.json`: TypeScript configuration.
-* `tailwind.config.js`: Tailwind configurations.
-* `README.md`: This file, providing project information and instructions.
-* `flow-diagram.dio`: Application flow diagram.
+-   `src/`: This directory contains the source code for your React application.
+    -   `components/`: React components go here.
+    -   `App.tsx`: The main application component.
+    -   `index.tsx`: Entry point for the application.
+-   `public/`: Static assets and HTML template.
+    -   `assets/`: Static assets.
+-   `package.json`: Configuration file for npm packages and scripts.
+-   `tsconfig.json`: TypeScript configuration.
+-   `tailwind.config.js`: Tailwind configurations.
+-   `README.md`: This file, providing project information and instructions.
+-   `flow-diagram.dio`: Application flow diagram.
 
 ## Learn More
 
